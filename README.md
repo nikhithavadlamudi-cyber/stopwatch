@@ -15,7 +15,7 @@ A simple and responsive stopwatch built using **HTML**, **CSS**, and **JavaScrip
 
 ## 📸 Screenshot
 
-![Stopwatch UI](screenshot.png)
+![image alt](https://github.com/nikhithavadlamudi-cyber/stopwatch/blob/930b9678d8e652826dad7af18ad690c10a8962e2/WhatsApp%20Image%202025-05-28%20at%203.25.19%20PM.jpeg)
 
 ---
 
